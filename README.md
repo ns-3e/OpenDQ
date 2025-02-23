@@ -1,6 +1,8 @@
 # OpenDQ: Data Quality Library for Python
 
-![OpenDQ Logo](docs/images/OpenDQ_Logo.png)
+<p align="center">
+  <img src="assets/logo/opendq_logo.png" alt="OpenDQ Logo" width="300">
+</p>
 
 OpenDQ is a high-performance Python library for comprehensive data quality management, standardization, and normalization. It supports both small-scale and large-scale data processing through various connectors and provides extensive functionality for data quality assessment, standardization, and normalization.
 
