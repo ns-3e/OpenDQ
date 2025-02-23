@@ -1,5 +1,9 @@
 # OpenDQ: Comprehensive Documentation
 
+<p align="center">
+  <img src="assets/OpenDQ_logo.png" alt="OpenDQ Logo" width="300">
+</p>
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
